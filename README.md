@@ -1,4 +1,4 @@
 fishwife
 ========
 
-My personal FISH scripts.
+My personal [FISH](http://fishshell.com/) scripts.
